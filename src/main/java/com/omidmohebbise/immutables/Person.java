@@ -1,4 +1,4 @@
-package com.omidmohebbise.immutable;
+package com.omidmohebbise.immutables;
 
 import org.immutables.value.Value;
 
